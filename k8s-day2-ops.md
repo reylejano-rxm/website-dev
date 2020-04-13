@@ -3,7 +3,7 @@ This three-day hands-on course is designed to provide Kubernetes operators with 
 
 ### Delivery
 
-Available for Instructor-Led (ILT) in-person/onsite training or Virtual Instructor-Led training (VILT) delivery;  Open Enrollment options may be available (insert link - believe there is a call out for this on the pages)
+Available for Instructor-Led (ILT) in-person/onsite training or Virtual Instructor-Led training (VILT) delivery;  Open Enrollment options may be available.
 
 
 ### Who Should Attend?
